@@ -130,6 +130,12 @@
 ### Port Checker
 - https://www.yougetsignal.com/tools/open-ports/
 
+### Domain Name Generator
+- https://www.panabee.com/
+- https://domainwheel.com/
+- https://www.namemesh.com/
+- https://namelix.com/
+
 ### Image Compressor
 - https://compressor.io/
 - https://tinypng.com/
