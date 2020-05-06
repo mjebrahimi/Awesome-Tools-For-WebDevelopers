@@ -52,21 +52,21 @@
 - http://similarweb.com/
 
 ### SEO Checker
-- https://tools.hostiran.net/checkup
-- https://seo.checkup.tools/domain/
-- https://checkup.tools/website-reviewer/
+- https://www.woorank.com/
+- https://www.seoptimer.com/
+- https://sitechecker.pro/
+- https://tools.hostiran.net/checkup (persian)
+- https://seo.checkup.tools/domain/ (persian)
+- https://checkup.tools/website-reviewer/ (persian)
 - https://neilpatel.com/seo-analyzer/
 - https://www.seotesteronline.com/
-- https://www.seoptimer.com/
-- https://www.woorank.com/
-- https://sitechecker.pro/
 - http://webpagetest.org/
 - http://seositecheckup.com/
 - https://www.site-analyzer.com/
 
 ### Rank Checker
-- https://www.searchenginegenie.com/google-rank-checker.html
 - https://www.thehoth.com/search-engine-rankings/
+- https://www.searchenginegenie.com/google-rank-checker.html
 - https://seranking.com/google-ranking-checker.html
 
 ### Analytics & Tracking
@@ -96,8 +96,8 @@
 - https://gtmetrix.com/
 - https://web.dev/measure/
 - https://www.pingdom.com/
-- https://developers.google.com/speed/pagespeed/insights/
 - https://developers.google.com/web/tools/lighthouse
+- https://developers.google.com/speed/pagespeed/insights/
 
 ### Webiste Monitoring / Uptime Checker 
 - https://uptimerobot.com/
@@ -118,6 +118,7 @@
 - https://observatory.mozilla.org/
 - https://sitecheck.sucuri.net/
 - https://webscan.upguard.com/
+- https://www.immuniweb.com/websec/
 
 ### DNS Checker
 - https://dnschecker.org/
