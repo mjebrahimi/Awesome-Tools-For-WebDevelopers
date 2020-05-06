@@ -3,6 +3,12 @@
     The Best Useful Tools for Web Developers
 
 ## Tools
+
+### Image Compressor
+- https://compressor.io/
+- https://tinypng.com/
+- https://kraken.io/
+- https://compressjpeg.com/
     
 ### Unminify HTML, CSS and JS
 - https://www.unminify2.com/
@@ -121,16 +127,11 @@
 - https://www.diffchecker.com/
 - https://www.diffnow.com/compare-clips
 
-### SSL/TLS Checker
-- https://www.ssllabs.com/ssltest/
-- https://www.jitbit.com/sslcheck/
-
-### Security Checker
-- https://securityheaders.com/
-- https://observatory.mozilla.org/
-- https://sitecheck.sucuri.net/
-- https://webscan.upguard.com/
-- https://www.immuniweb.com/websec/
+### Domain Name Generator
+- https://www.panabee.com/
+- https://domainwheel.com/
+- https://www.namemesh.com/
+- https://namelix.com/
 
 ### DNS Checker
 - https://dnschecker.org/
@@ -142,17 +143,16 @@
 ### Port Checker
 - https://www.yougetsignal.com/tools/open-ports/
 
-### Domain Name Generator
-- https://www.panabee.com/
-- https://domainwheel.com/
-- https://www.namemesh.com/
-- https://namelix.com/
+### SSL/TLS Checker
+- https://www.ssllabs.com/ssltest/
+- https://www.jitbit.com/sslcheck/
 
-### Image Compressor
-- https://compressor.io/
-- https://tinypng.com/
-- https://kraken.io/
-- https://compressjpeg.com/
+### Security Checker
+- https://securityheaders.com/
+- https://observatory.mozilla.org/
+- https://sitecheck.sucuri.net/
+- https://webscan.upguard.com/
+- https://www.immuniweb.com/websec/
 
 ## Contributing
 
