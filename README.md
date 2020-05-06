@@ -8,6 +8,18 @@
 - https://www.unminify2.com/
 - https://unminify.com
 
+### Javascript Minifer
+- https://javascript-minifier.com/
+- https://jscompress.com/
+
+### CSS Minifier
+- https://cssminifier.com/
+- https://csscompressor.com/
+
+### JavaScript Beautifier
+- https://beautifier.io/
+- https://codebeautify.org/jsviewer
+
 ### Unminify/Formating JSON - Check/Validating JSON
 - https://jsonformatter.curiousconcept.com/
 - https://jsonformatter.org/
