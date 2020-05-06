@@ -37,11 +37,11 @@
 - https://www.browserling.com/tools/
 
 ### Check Domain and Whois
-- http://webramz.com/
-- https://www.talahost.com/whois.htm
-- https://iranhost.com/whois/
 - https://whois.net/
 - https://who.is/
+- http://webramz.com/ (persian)
+- https://www.talahost.com/whois.htm (persian)
+- https://iranhost.com/whois/ (persian)
 
 ### IP to Location
 - https://www.iplocation.net/
