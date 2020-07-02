@@ -5,6 +5,7 @@
 ## Tools
 
 ### Image Compressor
+- https://images.weserv.nl/
 - https://compressor.io/
 - https://tinypng.com/
 - https://kraken.io/
