@@ -136,6 +136,8 @@
 ### DNS Checker
 - https://dnschecker.org/
 - https://www.whatsmydns.net/
+- https://intodns.com/
+- https://www.internic.net/
 
 ### DNS Lookup
 - https://www.uptrends.com/tools/dns
@@ -146,6 +148,7 @@
 ### SSL/TLS Checker
 - https://www.ssllabs.com/ssltest/
 - https://www.jitbit.com/sslcheck/
+- https://www.sslshopper.com/ssl-checker.html
 
 ### Security Checker
 - https://securityheaders.com/
