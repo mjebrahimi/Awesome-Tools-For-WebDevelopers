@@ -103,6 +103,7 @@
 - https://mixpanel.com/
 - https://heatmap.com/
 - https://www.ptengine.com/
+- https://umami.is/docs/about
 - -------- Other ---------
 - https://segment.com/
 - https://clicky.com/
