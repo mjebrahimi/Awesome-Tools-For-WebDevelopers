@@ -52,6 +52,7 @@
 - https://emn178.github.io/online-tools/
 
 ### Web Developer Toolbox
+- https://gchq.github.io/CyberChef/
 - https://www.browserling.com/tools/
 
 ### Check Domain and Whois
@@ -139,6 +140,8 @@
 - https://www.whatsmydns.net/
 - https://intodns.com/
 - https://www.internic.net/
+- http://dns-record-viewer.online-domain-tools.com/
+- https://mxtoolbox.com/SuperTool.aspx
 
 ### DNS Lookup
 - https://www.uptrends.com/tools/dns
