@@ -1,7 +1,11 @@
 # Awesome Tools For Web Developers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
     The Best Useful Tools for Web Developers
-    
+
+## Give a Star! ⭐️
+
+If you liked this repo or find it useful, please give it a star. Thanks!
+
 ## Tools
 - [Image Compressor](#image-compressor)
 - [Unminify HTML, CSS and JS](#unminify-html-css-and-js)
@@ -190,10 +194,6 @@
 Create an [issue](https://github.com/mjebrahimi/Awesome-Tools-For-WebDevelopers/issues/new) if you have a Suggestion or Fork on GitHub and Develop it and send Pull Request.
 
 A **HUGE THANKS** for your help.
-
-## Give a Star! ⭐️
-
-If you liked this repo or find it useful, please give it a star. Thanks!
 
 ## License
 
