@@ -2,7 +2,7 @@
 
     The Best Useful Tools for Web Developers
     
-## Content
+## Tools
 - [Image Compressor](#image-compressor)
 - [Unminify HTML, CSS and JS](#unminify-html-css-and-js)
 - [Javascript Minifer](#javascript-minifer)
@@ -30,8 +30,6 @@
 - [Port Checker](#port-checker)
 - [SSL/TLS Checker](#ssltls-checker)
 - [Security Checker](#security-checker)
-
-## Tools
 
 ### Image Compressor
 - https://compressor.io/
@@ -61,7 +59,7 @@
 - https://www.jsonformatter.io/
 
 ### Browse JSON in TreeView
-- http://jsonviewer.stack.hu/
+- https://jsonviewer.stack.hu/
 
 ### Regex (Regular Expression) Tester and Highlighting
 - https://regexr.com/
@@ -87,7 +85,7 @@
 ### Check Domain and Whois
 - https://whois.net/
 - https://who.is/
-- http://webramz.com/ (persian)
+- https://webramz.com/ (persian)
 - https://www.talahost.com/whois.htm (persian)
 - https://iranhost.com/whois/ (persian)
 
@@ -95,9 +93,9 @@
 - https://www.iplocation.net/
 
 ### Website Traffic Statistics
-- http://www.alexa.com/
-- http://siterankdata.com/
-- http://similarweb.com/
+- https://www.alexa.com/
+- https://siterankdata.com/
+- https://similarweb.com/
 
 ### SEO Checker
 - https://www.woorank.com/
@@ -108,8 +106,8 @@
 - https://checkup.tools/website-reviewer/ (persian)
 - https://neilpatel.com/seo-analyzer/
 - https://www.seotesteronline.com/
-- http://webpagetest.org/
-- http://seositecheckup.com/
+- https://webpagetest.org/
+- https://seositecheckup.com/
 - https://www.site-analyzer.com/
 
 ### Rank Checker
@@ -137,7 +135,7 @@
 - -------- Other ---------
 - https://segment.com/
 - https://clicky.com/
-- http://www.openwebanalytics.com
+- https://www.openwebanalytics.com
 - https://www.intercom.com/
 - https://www.optimizely.com/
 
@@ -152,7 +150,7 @@
 - https://uptimerobot.com/
 - https://hetrixtools.com/
 - https://www.freshworks.com/
-- http://www.uptimedoctor.com/
+- https://www.uptimedoctor.com/
 
 ### Text Compare / Difference Checker
 - https://www.diffchecker.com/
@@ -168,7 +166,7 @@
 - https://dnschecker.org/
 - https://www.whatsmydns.net/
 - https://intodns.com/
-- http://dns-record-viewer.online-domain-tools.com/
+- https://dns-record-viewer.online-domain-tools.com/
 - https://mxtoolbox.com/SuperTool.aspx
 - https://www.uptrends.com/tools/dns
 
@@ -199,7 +197,7 @@ If you liked this repo or find it useful, please give it a star. Thanks!
 
 ## License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Mohammad Javad Ebrahimi](https://github.com/mjebrahimi/) has waived all copyright and related or neighboring rights to this work.
 
