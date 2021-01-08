@@ -22,12 +22,13 @@ If you liked this repo or find it useful, please give it a star. Thanks!
 - [Web Developer Toolbox](#web-developer-toolbox)
 - [Check Domain and Whois](#check-domain-and-whois)
 - [IP to Location](#ip-to-location)
+- [Uptime Calculator](#uptime-calculator)
 - [Website Traffic Statistics](#website-traffic-statistics)
 - [SEO Checker](#seo-checker)
 - [Rank Checker](#rank-checker)
 - [Analytics & Tracking](#analytics--tracking)
 - [Speed Checker and Performance Optimization](#speed-checker-and-performance-optimization)
-- [Webiste Monitoring / Uptime Checker](#webiste-monitoring--uptime-checker)
+- [Website Monitoring / Uptime Checker](#website-monitoring--uptime-checker)
 - [Text Compare / Difference Checker](#text-compare--difference-checker)
 - [Domain Name Generator](#domain-name-generator)
 - [DNS Checker](#dns-checker)
@@ -96,6 +97,10 @@ If you liked this repo or find it useful, please give it a star. Thanks!
 ### IP to Location
 - https://www.iplocation.net/
 
+### Uptime Calculator
+
+- https://tryhexadecimal.com/sla-uptime-calculator
+
 ### Website Traffic Statistics
 - https://www.alexa.com/
 - https://siterankdata.com/
@@ -150,7 +155,7 @@ If you liked this repo or find it useful, please give it a star. Thanks!
 - https://developers.google.com/web/tools/lighthouse
 - https://developers.google.com/speed/pagespeed/insights/
 
-### Webiste Monitoring / Uptime Checker 
+### Website Monitoring / Uptime Checker 
 - https://uptimerobot.com/
 - https://hetrixtools.com/
 - https://www.freshworks.com/
