@@ -61,6 +61,7 @@ If you liked this repo or find it useful, please give it a star. Thanks!
 - https://jsonformatter.curiousconcept.com/
 - https://jsonformatter.org/
 - https://www.jsonformatter.io/
+- https://textcompare-jsonformatter.com/
 
 ### Browse JSON in TreeView
 - https://jsonviewer.stack.hu/
@@ -159,6 +160,8 @@ If you liked this repo or find it useful, please give it a star. Thanks!
 ### Text Compare / Difference Checker
 - https://www.diffchecker.com/
 - https://www.diffnow.com/compare-clips
+- https://textcompare-jsonformatter.com/
+-  
 
 ### Domain Name Generator
 - https://www.panabee.com/
