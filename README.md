@@ -65,6 +65,7 @@ If you liked this repo or find it useful, please give it a star. Thanks!
 
 ### Browse JSON in TreeView
 - https://jsonviewer.stack.hu/
+- https://json-viewer.autocompany.workers.dev/ - Open-source JSON viewer with syntax highlighting and tree view
 
 ### Regex (Regular Expression) Tester and Highlighting
 - https://regexr.com/
@@ -176,6 +177,7 @@ If you liked this repo or find it useful, please give it a star. Thanks!
 - https://dns-record-viewer.online-domain-tools.com/
 - https://mxtoolbox.com/SuperTool.aspx
 - https://www.uptrends.com/tools/dns
+- https://dns-propagation-checker.autocompany.workers.dev/ - Open-source DNS propagation checker with global coverage
 
 ### Port Checker
 - https://www.yougetsignal.com/tools/open-ports/
@@ -184,6 +186,7 @@ If you liked this repo or find it useful, please give it a star. Thanks!
 - https://www.ssllabs.com/ssltest/
 - https://www.jitbit.com/sslcheck/
 - https://www.sslshopper.com/ssl-checker.html
+- https://ssl-certificate-monitor.autocompany.workers.dev/ - Open-source SSL certificate expiry monitor
 
 ### Security Checker
 - https://securityheaders.com/
