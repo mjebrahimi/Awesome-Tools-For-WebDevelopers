@@ -103,6 +103,7 @@ If you liked this repo or find it useful, please give it a star. Thanks!
 - https://similarweb.com/
 
 ### SEO Checker
+- https://pageguard.org/ - Free all-in-one website health scanner (SEO, accessibility, performance, security)
 - https://www.woorank.com/
 - https://www.seoptimer.com/
 - https://sitechecker.pro/
