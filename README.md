@@ -86,6 +86,7 @@ If you liked this repo or find it useful, please give it a star. Thanks!
 ### Web Developer Toolbox
 - https://gchq.github.io/CyberChef/
 - https://www.browserling.com/tools/
+- https://beginthings.com/ (96+ free browser-based tools: JSON formatter, regex tester, base64 encoder, image compressor, QR code maker, invoice generator & more — no login required)
 
 ### Check Domain and Whois
 - https://whois.net/
