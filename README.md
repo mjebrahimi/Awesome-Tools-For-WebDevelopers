@@ -86,6 +86,7 @@ If you liked this repo or find it useful, please give it a star. Thanks!
 ### Web Developer Toolbox
 - https://gchq.github.io/CyberChef/
 - https://www.browserling.com/tools/
+- [DevKits](https://aiforeverthing.com) - 82 free developer tools in a PWA (Base64, JSON, CSS, Hash, UUID, and more)
 
 ### Check Domain and Whois
 - https://whois.net/
