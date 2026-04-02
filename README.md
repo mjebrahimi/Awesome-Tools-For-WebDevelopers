@@ -86,6 +86,7 @@ If you liked this repo or find it useful, please give it a star. Thanks!
 ### Web Developer Toolbox
 - https://gchq.github.io/CyberChef/
 - https://www.browserling.com/tools/
+- https://devpulse.tools/ - 25+ free online developer tools with REST API (JSON formatter, Base64, UUID, hash generator, regex tester, and more)
 
 ### Check Domain and Whois
 - https://whois.net/
