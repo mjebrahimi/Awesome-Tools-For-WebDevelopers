@@ -203,4 +203,4 @@ A **HUGE THANKS** for your help.
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Mohammad Javad Ebrahimi](https://github.com/mjebrahimi/) has waived all copyright and related or neighboring rights to this work.
-
+- [TaleForge](https://www.tale-forge.com) - Creative writing platform built with Next.js, Tailwind CSS, Prisma, and TipTap. Great example of a full-stack web app.
