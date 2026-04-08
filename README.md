@@ -86,6 +86,7 @@ If you liked this repo or find it useful, please give it a star. Thanks!
 ### Web Developer Toolbox
 - https://gchq.github.io/CyberChef/
 - https://www.browserling.com/tools/
+- https://kappakit.com/ (Base64, JWT, hash, UUID, regex, URL, and color utilities in one client-side page — no signup)
 
 ### Check Domain and Whois
 - https://whois.net/
