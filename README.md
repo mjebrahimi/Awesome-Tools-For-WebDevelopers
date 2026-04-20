@@ -66,10 +66,19 @@ If you liked this repo or find it useful, please give it a star. Thanks!
 ### Browse JSON in TreeView
 - https://jsonviewer.stack.hu/
 
+### JSON to TypeScript Converter
+- https://genesisaiservices.github.io/json2ts/ (JSON2TS - free, no signup, client-side)
+
 ### Regex (Regular Expression) Tester and Highlighting
 - https://regexr.com/
 - https://regex101.com/
 - https://www.regextester.com/
+
+### Regex Pattern Explainer
+- https://genesisaiservices.github.io/regexplain/ (RegExplain - explains regex in plain English, free, no signup)
+
+### Cron Expression Explainer
+- https://genesisaiservices.github.io/cronexplain/ (CronExplain - explains cron expressions in plain English, free, no signup)
 
 ### Unicode Converter
 - https://www.branah.com/unicode-converter
