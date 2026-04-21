@@ -192,6 +192,10 @@ If you liked this repo or find it useful, please give it a star. Thanks!
 - https://webscan.upguard.com/
 - https://www.immuniweb.com/websec/
 
+### Accessibility Checker
+
+- [Accessalyze](https://accessalyze.com) - Free WCAG 2.1 AA web accessibility scanner with AI-generated fix code. Scan any website for ADA/Section 508 compliance, color contrast, missing alt text, keyboard accessibility, ARIA issues, and 90+ axe-core rules. AI-powered remediation suggestions. No signup required.
+
 ## Contributing
 
 Create an [issue](https://github.com/mjebrahimi/Awesome-Tools-For-WebDevelopers/issues/new) if you have a Suggestion or Fork on GitHub and Develop it and send Pull Request.
