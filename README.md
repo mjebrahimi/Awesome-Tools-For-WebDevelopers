@@ -204,3 +204,5 @@ A **HUGE THANKS** for your help.
 
 To the extent possible under law, [Mohammad Javad Ebrahimi](https://github.com/mjebrahimi/) has waived all copyright and related or neighboring rights to this work.
 
+### Accessibility Checker
+- https://accessalyze.com - Free WCAG 2.1 AA accessibility scanner. Detects 80+ accessibility violations with AI-generated fix code. Shareable report URL. No sign-up required.
