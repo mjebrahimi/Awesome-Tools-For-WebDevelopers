@@ -4,6 +4,8 @@
 
 ## Give a Star! ⭐️
 
+- [TinyTools](https://tinytools-smoky.vercel.app/) - Free dev utilities: Domain Name Generator with RDAP availability check, OG Image Generator (1200×630 PNG), Favicon Generator (full set + manifest.json), Color Palette Generator (CSS/Tailwind export), SEO Meta Tag Generator with live preview, AI Background Remover (runs locally via WebAssembly).
+
 If you liked this repo or find it useful, please give it a star. Thanks!
 
 ## Tools
@@ -203,4 +205,5 @@ A **HUGE THANKS** for your help.
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Mohammad Javad Ebrahimi](https://github.com/mjebrahimi/) has waived all copyright and related or neighboring rights to this work.
+
 
