@@ -204,3 +204,7 @@ A **HUGE THANKS** for your help.
 
 To the extent possible under law, [Mohammad Javad Ebrahimi](https://github.com/mjebrahimi/) has waived all copyright and related or neighboring rights to this work.
 
+## Added Tools
+
+- [Bytepane](https://bytepane.com/) - Free developer tools suite (50+ utilities). JSON formatter, regex tester with ReDoS detection, base64, JWT decoder, hash generators, color converters. Plus cheatsheets for 50+ languages. Client-side only.
+
