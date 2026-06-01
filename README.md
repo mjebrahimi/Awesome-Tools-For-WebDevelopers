@@ -168,6 +168,7 @@ If you liked this repo or find it useful, please give it a star. Thanks!
 - https://domainwheel.com/
 - https://www.namemesh.com/
 - https://namelix.com/
+- https://tinytools-smoky.vercel.app/ (domain name generator + 8 free browser-based web tools)
 
 ### DNS Checker
 - https://dnschecker.org/
