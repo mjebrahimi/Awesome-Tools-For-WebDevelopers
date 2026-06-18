@@ -58,6 +58,7 @@ If you liked this repo or find it useful, please give it a star. Thanks!
 - https://codebeautify.org/jsviewer
 
 ### Unminify/Formating JSON - Check/Validating JSON
+- https://mini-tools.uk/promo-json.html
 - https://jsonformatter.curiousconcept.com/
 - https://jsonformatter.org/
 - https://www.jsonformatter.io/
@@ -158,6 +159,7 @@ If you liked this repo or find it useful, please give it a star. Thanks!
 - https://www.uptimedoctor.com/
 
 ### Text Compare / Difference Checker
+- https://mini-tools.uk/promo-diff.html
 - https://www.diffchecker.com/
 - https://www.diffnow.com/compare-clips
 - https://textcompare-jsonformatter.com/
