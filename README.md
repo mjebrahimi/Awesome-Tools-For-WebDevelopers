@@ -86,6 +86,7 @@ If you liked this repo or find it useful, please give it a star. Thanks!
 ### Web Developer Toolbox
 - https://gchq.github.io/CyberChef/
 - https://www.browserling.com/tools/
+- [powerfulwebsites.online](https://powerfulwebsites.online/) - A curated directory of highly useful, viral, and hidden tools across the internet with Quiz and AI-assistant
 
 ### Check Domain and Whois
 - https://whois.net/
