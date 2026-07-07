@@ -86,6 +86,7 @@ If you liked this repo or find it useful, please give it a star. Thanks!
 ### Web Developer Toolbox
 - https://gchq.github.io/CyberChef/
 - https://www.browserling.com/tools/
+- https://www.jiebang.site/ - 170+ free browser-based developer tools (JSON formatter, Base64, QR code, Cron parser, image converter, and more)
 
 ### Check Domain and Whois
 - https://whois.net/
