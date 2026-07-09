@@ -7,6 +7,8 @@
 If you liked this repo or find it useful, please give it a star. Thanks!
 
 ## Tools
+
+- [BidSharp](https://bidsharp.io/) - AI-powered proposal intelligence platform with automated critiques, risk scanners, and pricing calculators.
 - [Image Compressor](#image-compressor)
 - [Unminify HTML, CSS and JS](#unminify-html-css-and-js)
 - [Javascript Minifer](#javascript-minifer)
