@@ -79,6 +79,7 @@ If you liked this repo or find it useful, please give it a star. Thanks!
 
 ### Converter Toolbox
 - https://conversiontools.io/conversion
+- https://nutilz.com/base-converter (number base converter - binary, octal, decimal, hex)
 
 ### Hash Text and File
 - https://emn178.github.io/online-tools/
