@@ -62,14 +62,17 @@ If you liked this repo or find it useful, please give it a star. Thanks!
 - https://jsonformatter.org/
 - https://www.jsonformatter.io/
 - https://textcompare-jsonformatter.com/
+- https://devtoolcore.com/tools/json-formatter — Format & validate with tree view
 
 ### Browse JSON in TreeView
 - https://jsonviewer.stack.hu/
+- https://devtoolcore.com/tools/json-formatter — Collapsible JSON tree viewer
 
 ### Regex (Regular Expression) Tester and Highlighting
 - https://regexr.com/
 - https://regex101.com/
 - https://www.regextester.com/
+- https://devtoolcore.com/tools/regex-tester — Live regex matching with flag support
 
 ### Unicode Converter
 - https://www.branah.com/unicode-converter
@@ -79,13 +82,16 @@ If you liked this repo or find it useful, please give it a star. Thanks!
 
 ### Converter Toolbox
 - https://conversiontools.io/conversion
+- https://devtoolcore.com — Base64, URL Encoder, JWT, UUID, Timestamp (19 tools total)
 
 ### Hash Text and File
 - https://emn178.github.io/online-tools/
+- https://devtoolcore.com/tools/hash-generator — MD5, SHA-1, SHA-256, SHA-512 in browser
 
 ### Web Developer Toolbox
 - https://gchq.github.io/CyberChef/
 - https://www.browserling.com/tools/
+- [DevToolCore](https://devtoolcore.com) — 19 free browser-based dev tools (JSON, regex, Base64, SEO, UUID, JWT)
 
 ### Check Domain and Whois
 - https://whois.net/
@@ -114,6 +120,7 @@ If you liked this repo or find it useful, please give it a star. Thanks!
 - https://webpagetest.org/
 - https://seositecheckup.com/
 - https://www.site-analyzer.com/
+- https://devtoolcore.com/tools/meta-tag-analyzer — Free meta tag & OG checker
 
 ### Rank Checker
 - https://www.thehoth.com/search-engine-rankings/
@@ -161,7 +168,7 @@ If you liked this repo or find it useful, please give it a star. Thanks!
 - https://www.diffchecker.com/
 - https://www.diffnow.com/compare-clips
 - https://textcompare-jsonformatter.com/
--  
+- https://devtoolcore.com/tools/text-diff — Line-by-line text comparison
 
 ### Domain Name Generator
 - https://www.panabee.com/
