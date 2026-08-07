@@ -126,6 +126,7 @@ If you liked this repo or find it useful, please give it a star. Thanks!
 - https://www.luckyorange.com/
 - https://matomo.org/ [formerly piwik.org]
 - -------- Has Free ---------
+- https://apstal.com/
 - https://www.hotjar.com/
 - https://heap.io/ [formerly heapanalytics.com]
 - https://www.inspectlet.com/
