@@ -70,6 +70,7 @@ If you liked this repo or find it useful, please give it a star. Thanks!
 - https://regexr.com/
 - https://regex101.com/
 - https://www.regextester.com/
+- https://www.devkitlab.com/en/tools/regex-tester/
 
 ### Unicode Converter
 - https://www.branah.com/unicode-converter
@@ -176,6 +177,7 @@ If you liked this repo or find it useful, please give it a star. Thanks!
 - https://dns-record-viewer.online-domain-tools.com/
 - https://mxtoolbox.com/SuperTool.aspx
 - https://www.uptrends.com/tools/dns
+- https://www.devkitlab.com/en/tools/dns-lookup/
 
 ### Port Checker
 - https://www.yougetsignal.com/tools/open-ports/
@@ -184,6 +186,7 @@ If you liked this repo or find it useful, please give it a star. Thanks!
 - https://www.ssllabs.com/ssltest/
 - https://www.jitbit.com/sslcheck/
 - https://www.sslshopper.com/ssl-checker.html
+- https://www.devkitlab.com/en/tools/ssl-checker/
 
 ### Security Checker
 - https://securityheaders.com/
