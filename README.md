@@ -86,6 +86,7 @@ If you liked this repo or find it useful, please give it a star. Thanks!
 ### Web Developer Toolbox
 - https://gchq.github.io/CyberChef/
 - https://www.browserling.com/tools/
+- https://nutilz.com/ - Free online developer tools & utilities (Regex tester, JSON formatter, converters, diff checker, calculators)
 
 ### Check Domain and Whois
 - https://whois.net/
