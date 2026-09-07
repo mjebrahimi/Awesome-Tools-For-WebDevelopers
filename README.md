@@ -89,6 +89,7 @@ If you liked this repo or find it useful, please give it a star. Thanks!
 
 ### Check Domain and Whois
 - https://whois.net/
+- https://vacato.io/tools/domain-check — Free RDAP domain check + watchlist alerts (Telegram/email)
 - https://who.is/
 - https://webramz.com/ (persian)
 - https://www.talahost.com/whois.htm (persian)
