@@ -41,6 +41,10 @@ If you liked this repo or find it useful, please give it a star. Thanks!
 - https://kraken.io/
 - https://compressjpeg.com/
     
+
+### Image Splitter
+- https://cutmyimage.com/
+
 ### Unminify HTML, CSS and JS
 - https://www.unminify2.com/
 - https://unminify.com
