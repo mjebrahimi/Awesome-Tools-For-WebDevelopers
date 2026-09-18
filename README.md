@@ -156,6 +156,7 @@ If you liked this repo or find it useful, please give it a star. Thanks!
 - https://hetrixtools.com/
 - https://www.freshworks.com/
 - https://www.uptimedoctor.com/
+- [NextReset](https://nextreset.ai/) - Codex reset-history and official AI-service incident reference.
 
 ### Text Compare / Difference Checker
 - https://www.diffchecker.com/
