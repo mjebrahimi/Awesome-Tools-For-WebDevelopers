@@ -40,6 +40,7 @@ If you liked this repo or find it useful, please give it a star. Thanks!
 - https://tinypng.com/
 - https://kraken.io/
 - https://compressjpeg.com/
+- https://p32929.github.io/shrinkkit/ (bulk, runs in-browser, nothing uploaded)
     
 ### Unminify HTML, CSS and JS
 - https://www.unminify2.com/
