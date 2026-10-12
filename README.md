@@ -177,6 +177,7 @@ If you liked this repo or find it useful, please give it a star. Thanks!
 - https://mxtoolbox.com/SuperTool.aspx
 - https://www.uptrends.com/tools/dns
 
+- https://17nas.com/ipv6-test.php
 ### Port Checker
 - https://www.yougetsignal.com/tools/open-ports/
 
