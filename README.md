@@ -83,10 +83,12 @@ If you liked this repo or find it useful, please give it a star. Thanks!
 ### Hash Text and File
 - https://emn178.github.io/online-tools/
 
+- https://17nas.com/md5.php
 ### Web Developer Toolbox
 - https://gchq.github.io/CyberChef/
 - https://www.browserling.com/tools/
 
+- https://17nas.com/tools/css-grid-generator/
 ### Check Domain and Whois
 - https://whois.net/
 - https://who.is/
@@ -177,6 +179,7 @@ If you liked this repo or find it useful, please give it a star. Thanks!
 - https://mxtoolbox.com/SuperTool.aspx
 - https://www.uptrends.com/tools/dns
 
+- https://17nas.com/ipv6-test.php
 ### Port Checker
 - https://www.yougetsignal.com/tools/open-ports/
 
