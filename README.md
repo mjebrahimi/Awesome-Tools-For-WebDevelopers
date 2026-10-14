@@ -84,6 +84,7 @@ If you liked this repo or find it useful, please give it a star. Thanks!
 - https://emn178.github.io/online-tools/
 
 ### Web Developer Toolbox
+- https://www.indpinfind.com/
 - https://gchq.github.io/CyberChef/
 - https://www.browserling.com/tools/
 
