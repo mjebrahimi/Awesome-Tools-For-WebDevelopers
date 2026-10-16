@@ -65,6 +65,7 @@ If you liked this repo or find it useful, please give it a star. Thanks!
 
 ### Browse JSON in TreeView
 - https://jsonviewer.stack.hu/
+- [Glim](https://github.com/NeoPanic/Glim) - Free, open-source macOS JSON tree viewer with source switching and basic text editing.
 
 ### Regex (Regular Expression) Tester and Highlighting
 - https://regexr.com/
