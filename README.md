@@ -37,6 +37,7 @@ If you liked this repo or find it useful, please give it a star. Thanks!
 
 ### Image Compressor
 - https://compressor.io/
+- https://imgflow.taoliapp.com/en/
 - https://tinypng.com/
 - https://kraken.io/
 - https://compressjpeg.com/
