@@ -70,6 +70,7 @@ If you liked this repo or find it useful, please give it a star. Thanks!
 - https://regexr.com/
 - https://regex101.com/
 - https://www.regextester.com/
+- https://pageutil.com/regex-tester/
 
 ### Unicode Converter
 - https://www.branah.com/unicode-converter
